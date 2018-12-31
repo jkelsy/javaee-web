@@ -3,10 +3,10 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.jkelsy</groupId>
-	<artifactId>javaeeweb</artifactId>
+	<artifactId>javaeemicro</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>javaeeweb</name>
+	<name>javaeemicro</name>
 	<description>Java EE Web</description>
 	<dependencies>
 		<dependency>
@@ -19,7 +19,7 @@
 	</dependencies>
 
 	<build>
-		<finalName>javaeeweb</finalName>
+		<finalName>javaeemicro</finalName>
 	</build>
 
 	<properties>
